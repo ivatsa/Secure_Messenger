@@ -1,9 +1,6 @@
-
 Secure Instant Messenger
 =================
 =======
-Instant Messenger
-=================
 
 How to run Client and Server in Terminal:
 ========================================
