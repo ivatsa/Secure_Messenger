@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-instant_messenger
+
+Secure Instant Messenger
 =================
 =======
 Instant Messenger
